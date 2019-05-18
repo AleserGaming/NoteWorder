@@ -6,11 +6,7 @@ public class Dialogs {
     public static final String WELCOME_TEXT = "I'm welcoming you with NoteWorder!\n" +
             "The program's version: NW Pre-Release\n" +
             "--------------------------------------------------------------------------------------------------------\n" +
-            "The source of: www.\n" +
-            "YouTube channels: https://www.youtube.com/channel/UCgc04NBvofY_2RSKtOTYO2g\n" +
-            "                  https://www.youtube.com/channel/UC73sAupqgocTNuDxRMSI4LA" +
-            "VK: https://vk.com/kas_identity\n" +
-            "FaceBook: https://web.facebook.com/alexander.krasikov.319";
+            "The source of: GitHub.";
     public static final String SYSTEM_PATH = "C:\\Users\\" + System.getProperty("user.name") + "\\AppData\\Local\\NoteWorder\\"; //DON'T EDITING! НЕ РЕДАКТИРОВАТЬ!
     public static final String SHOWING_ON_ALL_WINDOWS = "On all windows";
     public static final String TAB_NAME = "Type here to create some tab";
