@@ -5,7 +5,6 @@ public class Dialogs {
     public static final String PROGRAM_NAME = "NoteWorder";
     public static final String WELCOME_TEXT = "I'm welcoming you with NoteWorder!\n" +
             "The program's version: NW Pre-Release\n" +
-            "--------------------------------------------------------------------------------------------------------\n" +
             "The source of: GitHub.";
     public static final String SYSTEM_PATH = "C:\\Users\\" + System.getProperty("user.name") + "\\AppData\\Local\\NoteWorder\\"; //DON'T EDITING! НЕ РЕДАКТИРОВАТЬ!
     public static final String SHOWING_ON_ALL_WINDOWS = "On all windows";
